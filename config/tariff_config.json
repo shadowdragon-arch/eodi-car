@@ -1,0 +1,6 @@
+{
+    "weekday_first_hour": 3.00,
+    "weekday_subsequent_hour": 1.00,
+    "weekend_first_hour": 5.00,
+    "weekend_subsequent_hour": 1.00
+}
